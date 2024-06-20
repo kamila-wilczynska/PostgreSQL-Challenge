@@ -35,4 +35,29 @@ Blog tag table manages the many-to-many relationship between blog posts and tags
 The blog_tag table shows  relationship by holding pairs of foreign keys from the blog and tag tables. 
 ![image](https://github.com/kamila-wilczynska/PostgreSQL-Challenge/assets/107350829/28f40bd4-5b8c-40bb-8c2a-d9373010189f)
 
+## TASK III
+
+
+### Many to many relationship
+![image](https://github.com/kamila-wilczynska/PostgreSQL-Challenge/assets/107350829/d5fa353e-3dd4-4dfe-8ae4-304424f432d5)
+
+
+## PART II TASK I
+### Ctreate databese: Etsy 2 with tables seller and product
+
+![image](https://github.com/kamila-wilczynska/PostgreSQL-Challenge/assets/107350829/72316898-be11-4f15-969e-4cb07beccae3)
+
+### Seller table
+
+![image](https://github.com/kamila-wilczynska/PostgreSQL-Challenge/assets/107350829/9c98455f-31ba-499f-99e5-e051303ac489)
+
+
+### Product table
+
+![image](https://github.com/kamila-wilczynska/PostgreSQL-Challenge/assets/107350829/23b6438e-5d1e-44c5-a7a1-172ab1f22b19)
+
+
+
+
+
 
